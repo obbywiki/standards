@@ -43,6 +43,19 @@ Primary actions should always be obvious. Sometimes, depending on the flow, key 
 
 A user should know when a change is being propagated live and for other users. Something as simple as uploading and confirming a PFP, or perusing presets should not save data until the user specifically authorizes it, such as via a dedicated save button. A design is poor if any other action saves data without the usage of a save button, especially if any of them are actually there. Please note that in situations where this is obvious, such as short forms and such, this is not required. Consider a Discord-style "You have unsaved changes!" sticky banner.
 
+### Logos and Brands
+
+Logos and brand icons are usually found on SimpleIcons.org and should be sourced on their for consistency purposes.
+
+#### Color values of brands typically seen.
+
+Discord: #5865f2 (blurple) 
+Roblox: #335fff (Roblox blue, a solid black is sometimes applicable, but rarely)
+Google: Multi-colored, typically #FFFFFF (white) as a background
+GitHub: Technically adopts a green color for branding, but we usually just use #000000 (black) as it is standard
+Twitch: #9146FF
+ObbyWiki Blue: Primary (#0061F3), Secondary (#009FFF)
+
 ## Language
 
 All user-facing interface text **must** be in US English for consistency purposes. Use simple English, capable of being understood by non-native speakers. This means that technical details should not be shared, as many users do not understand what these terms mean.
