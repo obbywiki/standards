@@ -49,12 +49,13 @@ Logos and brand icons are usually found on SimpleIcons.org and should be sourced
 
 #### Color values of brands typically seen.
 
-Discord: #5865f2 (blurple) 
-Roblox: #335fff (Roblox blue, a solid black is sometimes applicable, but rarely)
-Google: Multi-colored, typically #FFFFFF (white) as a background
-GitHub: Technically adopts a green color for branding, but we usually just use #000000 (black) as it is standard
-Twitch: #9146FF
-ObbyWiki Blue: Primary (#0061F3), Secondary (#009FFF)
+* Discord: #5865f2 (blurple) 
+* Roblox: #335fff (Roblox blue, a solid black is sometimes applicable, but rarely)
+* Google: Multi-colored, typically #FFFFFF (white) as a background
+* GitHub: Technically adopts a green color for branding, but we usually just use #000000 (black) as it is standard
+* Twitch: #9146FF
+* Twitter (X): #1DA1F2 (blue), or #000000 (black)
+* ObbyWiki Blue: Primary (#0061F3), Secondary (#009FFF)
 
 ## Language
 
