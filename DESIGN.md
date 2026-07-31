@@ -37,7 +37,11 @@ Sometimes two elements make sense together. For example, a profile picture and b
 
 ### Actions
 
-Primary actions should always be obvious.
+Primary actions should always be obvious. Sometimes, depending on the flow, key binds should be used, such as CMD/CTRL + enter, or simply enter, depending on the field.
+
+### Saving Data
+
+A user should know when a change is being propagated live and for other users. Something as simple as uploading and confirming a PFP, or perusing presets should not save data until the user specifically authorizes it, such as via a dedicated save button. A design is poor if any other action saves data without the usage of a save button, especially if any of them are actually there. Please note that in situations where this is obvious, such as short forms and such, this is not required. Consider a Discord-style "You have unsaved changes!" sticky banner.
 
 ## Language
 
