@@ -33,6 +33,14 @@ Every interface or element should be visually consistent and make sense where it
 
 Sometimes two elements make sense together. For example, a profile picture and banner option. These could go under an 'Appearance' header. This is an example of good grouping.
 
+### Actions
+
+Primary actions should always be obvious.
+
 ## Language
 
-All user-facing interface text **must** be in US English for consistency purposes. Use simple English, capable of being understood by non-native speakers.
+All user-facing interface text **must** be in US English for consistency purposes. Use simple English, capable of being understood by non-native speakers. This means that technical details should not be shared, as many users do not understand what these terms mean.
+
+### Unicode & Characters
+
+Standard unicode may be used if necessary. Please ensure it can render on all modern software.
