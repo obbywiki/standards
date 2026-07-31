@@ -8,6 +8,8 @@ The Obby Wiki uses the Citizen skin along with [Citizen 4 design tokens](https:/
 
 * https://mwcitizen.skin/
 
+Make a note of how [existing extensions](https://github.com/orgs/obbywiki/repositories?q=mediawiki-extensions-) already implement these design practices.
+
 ## Design
 
 The majority of design choices are inherited from Citizen, however, some aspects are different.
