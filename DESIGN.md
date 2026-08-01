@@ -57,6 +57,10 @@ Logos and brand icons are usually found on SimpleIcons.org and should be sourced
 * Twitter (X): #1DA1F2 (blue), or #000000 (black)
 * ObbyWiki Blue: Primary (#0061F3), Secondary (#009FFF)
 
+### Icons
+
+Either Codex icons or Google Material Symbols 3 Icons can be used (filled, default weight and opsz)
+
 ## Language
 
 All user-facing interface text **must** be in US English for consistency purposes. Use simple English, capable of being understood by non-native speakers. This means that technical details should not be shared, as many users do not understand what these terms mean.
