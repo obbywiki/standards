@@ -55,6 +55,8 @@ Logos and brand icons are usually found on SimpleIcons.org and should be sourced
 * GitHub: Technically adopts a green color for branding, but we usually just use #000000 (black) as it is standard
 * Twitch: #9146FF
 * Twitter (X): #1DA1F2 (blue), or #000000 (black)
+* Fandom: #FF0054
+* Miraheze: #ffc200
 * ObbyWiki Blue: Primary (#0061F3), Secondary (#009FFF)
 
 ### Icons
