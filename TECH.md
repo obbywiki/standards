@@ -12,8 +12,33 @@ MediaWiki extensions are very powerful and can sometimes be the only way to impl
 
 MediaWiki extensions are predominantly PHP (obviously), but some other languages can help.
 
-#### HTML
+#### UI
 
 When rendered from the server (server-side), the recommended method or producing non-interactive HTML is by using the MediaWiki HTML constructor class (see https://www.mediawiki.org/wiki/Manual:Html.php) along with Mustache templating.
 
-When rendering interactive-HTML, Vue is used alongside TypeScript. Vite can be used to bundle these into production-ready JavaScript (usually under `resources/dist/*.js`.
+When rendering interactive UIs, Vue is used alongside TypeScript. Vite can be used to bundle these into production-ready JavaScript (usually under `resources/dist/*.js`).
+
+##### Styling
+
+Either Less/vanilla CSS can be used to style HTML depending on preference. For larger extensions, Less may be better.
+
+### ResourceLoader
+
+Resource loader.
+
+### Recommended Repository Layout (extensions)
+
+_Not related to the WikiWire recommended repository layout._
+
+```
+.
+├─ i18n/
+├─ resources/
+├─ src/
+│  └─ Hooks.php
+│  └─ ...
+└─ ...
+└─ extension.json
+└─ README.md
+└─ ...
+```
