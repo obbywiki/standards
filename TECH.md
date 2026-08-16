@@ -74,3 +74,7 @@ You can fork the OWSMT repository and create a Pull Request. Please follow WikiW
 ### Licensing
 
 Please view the OWSMT repository licensing information regarding the content stored there.
+
+## On-wiki
+
+For less complicated implementations, on-wiki JavaScript and CSS is possible via `MediaWiki:Common.css` and `MediaWiki:Common.js` respectively. Skin-specific styling is also available at `MediaWiki:Skin.type`, with the most common being `MediaWiki:Citizen.css`. These are also all synced via the OWSMT repository. When developing an extension that requires on-wiki configuration files (such as ObbyWikiArticleFlowVue), it may be useful to include example or test files at `on-wiki/`.
