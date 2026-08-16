@@ -1,10 +1,10 @@
-This file collects all projects under the Obby Wiki and Wikux.
+This file collects all projects under the Obby Wiki and Wikux. Many of these (mostly non-forks) are good reference points when drafting an extension.
 
 # Extensions
 
 | Name | Short name | Languages | Created | Public? | Purpose
 |-|-|-|-|-|-|
-| UserProfileV2 (fork) | - | PHP/CSS | February 2026 | ✅ (Disabled) | -
+| UserProfileV2 (fork) | - | PHP/CSS | May 2025 | ✅ (Disabled) | -
 | RelatedArticlesAuto (fork) | - | PHP/CSS | February 2026 | ✅ | -
 | DiscourseIntegration | - | PHP/CSS | February 2026 | ✅ (Archived, Disabled) | -
 | ObbyWikiFooter | - | PHP/CSS | March 2026 | ✅ | -
@@ -16,3 +16,9 @@ This file collects all projects under the Obby Wiki and Wikux.
 | ModernBlog | - | PHP/CSS | June 2026 | ❌ | Provides blog parser function helpers in order to categorize blog posts. Also provides styling for Blog: articles.
 | TrendingArticles (Wikux) | - | PHP/CSS | June 2026 | ✅ | Tracks page hits (or 'views') and displays trending pages per-category.
 | NewAuth | - | PHP/Vue/TS/CSS | July 2026 | ❌ | Reimplements the UI layer for MediaWiki authentication while adding OAuth providers.
+
+# Tools
+
+| Name | Short name | Languages | Created | Public? | Purpose
+|-|-|-|-|-|-|
+| WikiWire | - | TS | April 2026 | ✅ | Used in the OWSMT repository; aids with syncing large amounts of files on update.
