@@ -4,13 +4,14 @@ This repository contains helpful standards that may or may not apply to work rel
 
 ## Quick Reference
 
-UI/UX DESIGN: [DESIGN.md](./DESIGN.md), [PROJECTS.md](./PROJECTS.md)
-Extensions, OWSMT: [TECH.md](./TECH.md), [PROJECTS.md](./PROJECTS.md)
-Backend: [SERVER.md](./SERVER.md)
-Meta: [BRANDING.md](./BRANDING.md)
+* UI/UX DESIGN: [DESIGN.md](./DESIGN.md), [PROJECTS.md](./PROJECTS.md)
+* Extensions, OWSMT: [TECH.md](./TECH.md), [PROJECTS.md](./PROJECTS.md)
+* Backend: [SERVER.md](./SERVER.md)
+* Meta: [BRANDING.md](./BRANDING.md)
 
 # Also See
 
 * [OWMST](https://github.com/obbywiki/modules)
 * [WikiWire](https://github.com/obbywiki/wikiwire)
 * [.github](https://github.com/obbywiki/.github)
+* [Obby Wiki on GitHub](https://github.com/obbywiki)
