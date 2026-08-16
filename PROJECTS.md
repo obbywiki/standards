@@ -4,6 +4,8 @@ This file collects all projects under the Obby Wiki.
 
 | Name | Short name | Languages | Created | Public?
 |-|-|-|-|-|
+| UserProfileV2 (fork) | - | PHP/CSS | February 2026 | Yes (Disabled)
+| RelatedArticlesAuto (fork) | - | PHP/CSS | February 2026 | Yes
 | DiscourseIntegration | - | PHP/CSS | February 2026 | Yes (Archived, Disabled)
 | ObbyWikiFooter | - | PHP/CSS | March 2026 | Yes
 | RobloxPlaceMediaExtractor | - | PHP/CSS | March 2026 | Yes (Archived)
