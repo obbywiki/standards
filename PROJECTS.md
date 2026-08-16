@@ -1,4 +1,4 @@
-This file collects all projects under the Obby Wiki.
+This file collects all projects under the Obby Wiki and Wikux.
 
 # Extensions
 
@@ -14,4 +14,5 @@ This file collects all projects under the Obby Wiki.
 | DynamicJsonLD | - | PHP/Lua | March 2026 | Yes
 | ObbyWikiArticleFlowVue | OWAF,OWAFV | PHP/Vue/TS/CSS | June 2026 | No
 | ModernBlog | - | PHP/CSS | June 2026 | No
-| NewAuth | - | PHP/Vue/TS/CSS | June 2026 | No
+| TrendingArticles (Wikux) | - | PHP/CSS | June 2026 | Yes
+| NewAuth | - | PHP/Vue/TS/CSS | July 2026 | No
