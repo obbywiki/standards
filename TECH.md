@@ -55,6 +55,18 @@ custom: ["https://obby.wiki/OW:Funding"]
 
 It may also be appropriate to add a `CONTRIBUTING.md` file pointing athttps://github.com/obbywiki/standards.
 
+### extension.json
+
+#### Author
+
+Standard author line is as follows:
+
+```yaml
+"author": ["[https://obby.wiki The Obby Wiki]"]
+```
+
+Some older and archived extensions may have obbywiki.com links and use "ObbyWiki" instead.
+
 ## Modules & Templates
 
 Modules, templates, and other resources (such as scripts or files managed under the MediaWiki: namespace) are placed in the [OWSMT public repository](https://github.com/obbywiki/modules) (or obbywiki/modules on GitHub). The majority of modules are written in Luau.
