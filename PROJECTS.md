@@ -16,7 +16,9 @@ This file collects all projects under the Obby Wiki and Wikux. Many of these (mo
 | ModernBlog | - | PHP/CSS | June 2026 | ❌ | Provides blog parser function helpers in order to categorize blog posts. Also provides styling for Blog: articles.
 | TrendingArticles (Wikux) | - | PHP/CSS | June 2026 | ✅ | Tracks page hits (or 'views') and displays trending pages per-category.
 | NewAuth | - | PHP/Vue/TS/CSS | July 2026 | ❌ | Reimplements the UI layer for MediaWiki authentication while adding OAuth providers.
+| UserCollections | UC | - | ~July 2026 | - | Canceled.
 | IntegratedProfiles | IP | PHP/Vue/TS/CSS | July/August 2026 | ❌ | Adds a user-cutomizable profile, replacing UserProfileV2.
+| IntegratedAchievements | IA | - | ~August 2026 | - | Canceled.
 | UserFlairs | UF | PHP/Vue/TS/CSS | August 2026 | ✅ | Adds flairs for user groups similar to Discourse.
 
 This list may not be up to date. New/incomplete extensions have been omitted. Last updated on the 16th of August, 2026 (UTC).
